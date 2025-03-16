@@ -1,0 +1,53 @@
+#best{
+    color: black;
+    position: absolute;
+    z-index: 2;
+    left: 200;
+    font-size: 100;
+    top: 50;
+}
+
+#worst{
+    color: black;
+    position: absolute;
+    z-index: 2;
+    left: 1150;
+    font-size: 100;
+    top: 50;
+}
+
+#oscars{
+    position: absolute;
+    z-index: 2;
+    left: 200;
+    top: 300;
+    height: 500;
+    width: 500;
+    box-shadow: 0 0 5px black, 0 0 25px black;
+}
+
+#oscars:hover{
+    transform: scale(1.1);
+}
+
+#oscars:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#razzies{
+    position: absolute;
+    z-index: 2;
+    left: 1100;
+    top: 300;
+    height: 500;
+    width: 700;
+    box-shadow: 0 0 5px black, 0 0 25px black;
+}
+
+#razzies:hover{
+    transform: scale(1.1);
+}
+
+#razzies:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
