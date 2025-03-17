@@ -27,7 +27,7 @@
 }
 
 #oscars:hover{
-    transform: scale(1.1);
+    transform: rotate(20deg);
 }
 
 #oscars:hover{
@@ -45,7 +45,7 @@
 }
 
 #razzies:hover{
-    transform: scale(1.1);
+    transform: rotate(20deg);
 }
 
 #razzies:hover{
